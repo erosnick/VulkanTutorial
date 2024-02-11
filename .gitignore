@@ -33,5 +33,5 @@
 
 .vs/
 x64/
-1.CreateWindow/
-2.BaseCode/
+1.CreateWindow/x64
+2.BaseCode/x64
